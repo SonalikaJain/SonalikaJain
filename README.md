@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SonalikaJain
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning data science.
+- 💞️ I’m looking to collaborate on ds.
+- ⚡ Fun fact: i'm doing a dual course in BIA and BBA.
+- 🫶🏻 Let's work and learn together.
